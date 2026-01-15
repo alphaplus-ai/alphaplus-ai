@@ -36,6 +36,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alphaplus-ai/alphaplus-ai/output/snake.svg" alt="Snake animation" />
-
-###
